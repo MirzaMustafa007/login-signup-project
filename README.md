@@ -1,8 +1,8 @@
 login-signup-project/
 │
 ├── index.html
-├── styles.css
-├── login.js
-├── signup.js
 │── login.html
+├── login.js
 ├── signup.htm
+├── signup.js
+├── styles.css
