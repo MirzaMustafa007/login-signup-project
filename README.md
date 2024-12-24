@@ -2,6 +2,7 @@ login-signup-project/
 │
 ├── index.html
 ├── styles.css
-├── script.js
+├── login.js
+├── signup.js
 │── login.html
 ├── signup.htm
